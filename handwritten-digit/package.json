@@ -1,0 +1,21 @@
+{
+  "name": "handwritten-digit",
+  "version": "1.0.0",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.18.0",
+    "css": "^3.0.0",
+    "tailwind": "^2.4.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  },
+  "description": ""
+}

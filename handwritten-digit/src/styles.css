@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* #name{
+    text-align: center;
+}
+h2{
+    color: #000000;
+    font-size: xx-large;
+}
+canvas{
+    /* width: 300px;
+    height: 300px; */
+    /* margin-top: 15%;
+    margin-left: 100px;
+    display: block;
+    border-color: black;
+    border: solid;
+    box-shadow: 1rem;
+} */ 
